@@ -7,42 +7,40 @@ DICTIONARY = [
     #  LESSON 1
     # ══════════════════════════════════
     {"word": "abroad", "synonyms": ["overseas", "internationally"]},
-    {"word": "abrupt", "synonyms": ["sudden", "unexpected", "hasty"]},
-    {"word": "acceptable", "synonyms": ["permissible", "allowable", "satisfactory"]},
-    {"word": "acclaim", "synonyms": ["praise", "applause", "commendation"]},
+    {"word": "abrupt", "synonyms": ["sudden", "unexpected"]},
+    {"word": "acceptable", "synonyms": ["permissible", "allowable"]},
+    {"word": "acclaim", "synonyms": ["praise", "commendation"]},
     {"word": "actually", "synonyms": ["truly", "really", "in fact"]},
-    {"word": "adverse", "synonyms": ["unfavorable", "harmful", "detrimental"]},
+    {"word": "adverse", "synonyms": ["unfavorable", "harmful"]},
     {"word": "advice", "synonyms": ["suggestion", "recommendation", "guidance"]},
-    {"word": "attractive", "synonyms": ["appealing", "alluring", "charming"]},
-    {"word": "autonomous", "synonyms": ["independent", "self-governing", "sovereign"]},
+    {"word": "attractive", "synonyms": ["appealing", "alluring", "charming", "gripping", "engaging"]},
+    {"word": "autonomous", "synonyms": ["independent", "self-governing", "self-directed"]},
     {"word": "chronic", "synonyms": ["constant", "continual", "persistent"]},
-    {"word": "disapproval", "synonyms": ["objection", "criticism", "dissent"]},
-    {"word": "disruptive", "synonyms": ["disturbing", "unsettling", "troublesome"]},
-    {"word": "haphazardly", "synonyms": ["arbitrarily", "carelessly", "randomly"]},
-    {"word": "persistent", "synonyms": ["constant", "steady", "relentless"]},
-    {"word": "postpone", "synonyms": ["reschedule", "delay", "defer"]},
-    {"word": "valid", "synonyms": ["convincing", "legitimate", "well-founded"]},
-    {"word": "withdraw", "synonyms": ["extract", "remove", "retreat"]},
+    {"word": "disapproval", "synonyms": ["objection", "criticism"]},
+    {"word": "disruptive", "synonyms": ["disturbing", "unsettling"]},
+    {"word": "persistent", "synonyms": ["constant", "steady"]},
+    {"word": "postpone", "synonyms": ["reschedule", "delay", "defer", "put off"]},
+    {"word": "valid", "synonyms": ["convincing", "legitimate", "acceptable"]},
+    {"word": "withdraw", "synonyms": ["extract", "remove", "take out"]},
 
     # ══════════════════════════════════
     #  LESSON 2
     # ══════════════════════════════════
-    {"word": "advantage", "synonyms": ["benefit", "asset", "edge"]},
     {"word": "advent", "synonyms": ["arrival", "emergence", "onset"]},
     {"word": "agile", "synonyms": ["nimble", "quick", "dexterous"]},
     {"word": "albeit", "synonyms": ["although", "even though", "though"]},
-    {"word": "appealing", "synonyms": ["alluring", "enticing", "captivating"]},
-    {"word": "celebrated", "synonyms": ["renowned", "famous", "acclaimed"]},
+    {"word": "appealing", "synonyms": ["alluring", "enticing"]},
+    {"word": "celebrated", "synonyms": ["renowned", "famous",]},
     {"word": "circumvent", "synonyms": ["evade", "bypass", "dodge"]},
     {"word": "collide", "synonyms": ["crash", "clash", "smash"]},
     {"word": "contemporary", "synonyms": ["current", "modern", "present-day"]},
-    {"word": "distribute", "synonyms": ["dispense", "allocate", "hand out"]},
-    {"word": "encourage", "synonyms": ["stimulate", "motivate", "inspire"]},
+    {"word": "distribute", "synonyms": ["dispense", "hand out"]},
+    {"word": "encourage", "synonyms": ["stimulate", "motivate", "inspire", "boost", "promote", "foster", "support"]},
     {"word": "energetic", "synonyms": ["vigorous", "dynamic", "lively"]},
     {"word": "frail", "synonyms": ["fragile", "delicate", "weak"]},
     {"word": "heyday", "synonyms": ["pinnacle", "prime", "peak"]},
-    {"word": "myth", "synonyms": ["legend", "fable", "folklore"]},
-    {"word": "refine", "synonyms": ["perfect", "purify", "polish"]},
+    {"word": "myth", "synonyms": ["legend", "fable"]},
+    {"word": "refine", "synonyms": ["perfect", "purify", "improve"]},
     {"word": "worthwhile", "synonyms": ["rewarding", "valuable", "beneficial"]},
 
     # ══════════════════════════════════
@@ -51,62 +49,87 @@ DICTIONARY = [
     {"word": "alter", "synonyms": ["modify", "change", "adjust"]},
     {"word": "analyze", "synonyms": ["examine", "inspect", "evaluate"]},
     {"word": "ancient", "synonyms": ["old", "archaic", "antique"]},
-    {"word": "annoying", "synonyms": ["bothersome", "irritating", "vexing"]},
-    {"word": "anticipate", "synonyms": ["predict", "expect", "foresee"]},
-    {"word": "ascertain", "synonyms": ["determine", "discover", "establish"]},
+    {"word": "annoying", "synonyms": ["bothersome", "irritating", "frustrating"]},
+    {"word": "anticipate", "synonyms": ["predict", "expect"]},
+    {"word": "ascertain", "synonyms": ["determine", "discover", "find out"]},
     {"word": "conform", "synonyms": ["adapt", "comply", "follow"]},
     {"word": "enrich", "synonyms": ["enhance", "improve", "elevate"]},
-    {"word": "intensify", "synonyms": ["heighten", "amplify", "escalate"]},
-    {"word": "intolerable", "synonyms": ["unbearable", "insufferable", "unendurable"]},
+    {"word": "intensify", "synonyms": ["heighten", "strengthen"]},
+    {"word": "intolerable", "synonyms": ["unbearable", "insufferable", "unendurable", "unacceptable"]},
     {"word": "ongoing", "synonyms": ["current", "continuing", "in progress"]},
     {"word": "potential", "synonyms": ["possibility", "prospect", "capability"]},
     {"word": "propose", "synonyms": ["suggest", "recommend", "put forward"]},
-    {"word": "restore", "synonyms": ["revitalize", "renew", "repair"]},
-    {"word": "staple", "synonyms": ["essential", "fundamental", "basic"]},
-    {"word": "turbulent", "synonyms": ["chaotic", "stormy", "tumultuous"]},
+    {"word": "restore", "synonyms": ["revitalize", "renew", "repair", "revive"]},
+    {"word": "staple", "synonyms": ["essential", "fundamental", "basic", "main"]},
+    {"word": "turbulent", "synonyms": ["chaotic", "stormy"]},
     {"word": "vital", "synonyms": ["indispensable", "crucial", "essential"]},
 
     # ══════════════════════════════════
     #  LESSON 4
     # ══════════════════════════════════
-    {"word": "ambiguous", "synonyms": ["vague", "unclear", "equivocal"]},
-    {"word": "arbitrary", "synonyms": ["haphazard", "random", "capricious"]},
-    {"word": "assert", "synonyms": ["declare", "state", "affirm"]},
-    {"word": "astounding", "synonyms": ["astonishing", "amazing", "staggering"]},
+    {"word": "ambiguous", "synonyms": ["vague", "unclear", "uncertain"]},
+    {"word": "arbitrary", "synonyms": ["haphazard", "random", "capricious", "subjective"]},
+    {"word": "assert", "synonyms": ["declare", "state", "affirm", "claim"]},
+    {"word": "astounding", "synonyms": ["astonishing", "amazing"]},
     {"word": "astute", "synonyms": ["perceptive", "shrewd", "sharp"]},
-    {"word": "concur", "synonyms": ["agree", "accord", "correspond"]},
+    {"word": "concur", "synonyms": ["agree", "confirm", "correspond"]},
     {"word": "deceptively", "synonyms": ["misleadingly", "falsely", "dishonestly"]},
-    {"word": "designate", "synonyms": ["assign", "appoint", "nominate"]},
-    {"word": "determined", "synonyms": ["resolute", "firm", "unwavering"]},
+    {"word": "designate", "synonyms": ["assign", "appoint"]},
     {"word": "elicit", "synonyms": ["extract", "draw out", "obtain"]},
-    {"word": "embody", "synonyms": ["exemplify", "represent", "personify"]},
+    {"word": "embody", "synonyms": ["exemplify", "represent", "express"]},
     {"word": "instigate", "synonyms": ["initiate", "provoke", "trigger"]},
     {"word": "mundane", "synonyms": ["ordinary", "routine", "commonplace"]},
-    {"word": "petition", "synonyms": ["appeal", "request", "plea"]},
-    {"word": "relinquish", "synonyms": ["abdicate", "surrender", "yield"]},
-    {"word": "resilient", "synonyms": ["tenacious", "tough", "adaptable"]},
-    {"word": "tempt", "synonyms": ["entice", "lure", "seduce"]},
+    {"word": "petition", "synonyms": ["appeal", "request"]},
+    {"word": "relinquish", "synonyms": ["abdicate", "surrender", "give up"]},
+    {"word": "resilient", "synonyms": ["tenacious", "adaptable"]},
+    {"word": "tempt", "synonyms": ["entice", "lure", "attract"]},
 
     # ══════════════════════════════════
     #  LESSON 5
     # ══════════════════════════════════
-    {"word": "baffle", "synonyms": ["puzzle", "confuse", "bewilder"]},
-    {"word": "bear", "synonyms": ["yield", "produce", "endure"]},
-    {"word": "blur", "synonyms": ["cloud", "obscure", "dim"]},
-    {"word": "brilliant", "synonyms": ["radiant", "bright", "dazzling"]},
+    {"word": "baffle", "synonyms": ["puzzle", "confuse", "overwhelm"]},
+    {"word": "bear", "synonyms": ["produce", "tolerate", "carry"]},
+    {"word": "blur", "synonyms": ["cloud"]},
+    {"word": "brilliant", "synonyms": ["radiant", "bright", "intelligent"]},
     {"word": "caution", "synonyms": ["warn", "alert", "advise"]},
-    {"word": "delicate", "synonyms": ["fragile", "sensitive", "fine"]},
-    {"word": "enhance", "synonyms": ["strengthen", "boost", "augment"]},
+    {"word": "enhance", "synonyms": ["strengthen", "boost", "augment", "improve", "enrich"]},
     {"word": "facilitate", "synonyms": ["assist", "ease", "simplify"]},
-    {"word": "incessant", "synonyms": ["constant", "nonstop", "unceasing"]},
+    {"word": "incessant", "synonyms": ["constant", "nonstop", "persistent"]},
     {"word": "in conjunction with", "synonyms": ["along with", "together with", "combined with"]},
-    {"word": "intrigue", "synonyms": ["fascinate", "captivate", "enthrall"]},
-    {"word": "obstruct", "synonyms": ["block", "hinder", "impede"]},
-    {"word": "persuade", "synonyms": ["convince", "sway", "influence"]},
-    {"word": "recompense", "synonyms": ["compensation", "reward", "repayment"]},
-    {"word": "shed", "synonyms": ["discard", "cast off", "release"]},
-    {"word": "unique", "synonyms": ["rare", "distinctive", "one-of-a-kind"]},
+    {"word": "intrigue", "synonyms": ["fascinate", "interest"]},
+    {"word": "obstruct", "synonyms": ["block", "hinder"]},
+    {"word": "recompense", "synonyms": ["compensation", "repayment"]},
     {"word": "well-suited", "synonyms": ["compatible", "appropriate", "fitting"]},
+
+    # ══════════════════════════════════
+    #  LESSON 6
+    # ══════════════════════════════════
+
+
+
+
+    # ══════════════════════════════════
+    #  LESSON 7
+    # ══════════════════════════════════
+
+
+
+
+    # ══════════════════════════════════
+    #  LESSON 8
+    # ══════════════════════════════════
+
+
+
+    # ══════════════════════════════════
+    #  LESSON 9
+    # ══════════════════════════════════
+
+
+
+    # ══════════════════════════════════
+    #  EXTRA WORDS
+    # ══════════════════════════════════
 ]
 
 # ─── COLORS (Dark theme) ───
