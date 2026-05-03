@@ -22,7 +22,7 @@ Synonym Master helps you learn and memorize advanced English vocabulary through 
 ## Quick Start
 
 ```bash
-git clone https://github.com/gorkemparadise/synonym-master.git
+git clone https://github.com/gorkemergune/synonym-master.git
 cd synonym-master
 python main.py
 ```
